@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudo.iml" filepath="$PROJECT_DIR$/.idea/modules/sudo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudo_main.iml" group="sudo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudo_test.iml" group="sudo" />
+    </modules>
+  </component>
+</project>
